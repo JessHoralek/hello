@@ -1,9 +1,9 @@
 /**
- * Author: Jess Horalek
+ * Author: Jess Horalek & William McCarthy
  *         jhoralek2@huskers.unl.edu
  * Date: 2025/08/28
  *
- * A program to introduce myself and my major in C
+ * A program to introduce ourselves and our majors in C
  *
  */
 #include <stdlib.h>
